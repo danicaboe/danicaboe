@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danicaboe
-- 👀 I’m interested in: biological research through technology, linux rabit holes, and creating a comprehensive list of software and systems used within the data world.
+- 👀 I’m interested in: biological research using technology, running down linux rabit holes, and creating a comprehensive list of software and systems used within the data world.
 - 🌱 I’m currently learning: Python, Pandas, SQL, BeautifulSoup, AWS, REST API's.
 - 💞️ I’m looking to collaborate on: data projects using tableau, API's, cloud databases and SQL. 
 - 📫 How to reach me: www.linkedin.com/in/danica-boe
